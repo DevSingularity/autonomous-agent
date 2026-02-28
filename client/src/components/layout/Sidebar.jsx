@@ -66,7 +66,7 @@ export const Sidebar = () => {
           <Zap size={16} color="white" fill="white" />
         </div>
         <div>
-          <div style={{ fontWeight: 800, fontSize: '0.9rem', color: 'var(--text-primary)' }}>DevOnboard</div>
+          <div style={{ fontWeight: 800, fontSize: '0.9rem', color: 'var(--text-primary)' }}>OnboardOS</div>
           <div style={{ fontSize: '0.68rem', color: 'var(--text-muted)', letterSpacing: '0.02em' }}>AI Agent</div>
         </div>
       </div>

@@ -173,7 +173,7 @@ export const EmailPreview = () => {
                 <p style={{ marginBottom: 4, color: 'var(--text-secondary)', fontSize: '0.82rem' }}>
                   Generated: {new Date(email.preview.completionTime).toLocaleString()}
                 </p>
-                <p style={{ marginTop: 14 }}>Best regards,<br /><strong>DevOnboard Agent</strong></p>
+                <p style={{ marginTop: 14 }}>Best regards,<br /><strong>OnboardOS Agent</strong></p>
               </div>
             </div>
 
@@ -218,5 +218,5 @@ ${preview.pendingTasks.length > 0 ? `Pending Tasks:\n${preview.pendingTasks.map(
 Generated: ${new Date(preview.completionTime).toLocaleString()}
 
 Best regards,
-DevOnboard Agent
+OnboardOS Agent
 `

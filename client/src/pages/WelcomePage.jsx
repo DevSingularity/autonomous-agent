@@ -185,7 +185,7 @@ export const WelcomePage = () => {
             <Zap size={20} color="white" fill="white" />
           </div>
           <div>
-            <div style={{ fontWeight: 800, fontSize: '1rem', color: 'var(--text-primary)' }}>DevOnboard</div>
+            <div style={{ fontWeight: 800, fontSize: '1rem', color: 'var(--text-primary)' }}>OnboardOS</div>
             <div style={{ fontSize: '0.72rem', color: 'var(--text-muted)' }}>Autonomous AI Agent</div>
           </div>
         </div>
@@ -195,7 +195,7 @@ export const WelcomePage = () => {
             Your personalized developer onboarding starts here.
           </h1>
           <p style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', lineHeight: 1.7, marginBottom: 32 }}>
-            Powered by RAG and LLMs, DevOnboard guides you through your first days — answering questions from company docs, tracking your progress, and keeping HR in the loop.
+            Powered by RAG and LLMs, OnboardOS guides you through your first days — answering questions from company docs, tracking your progress, and keeping HR in the loop.
           </p>
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
@@ -215,9 +215,9 @@ export const WelcomePage = () => {
           </div>
         </div>
 
-        <div style={{ fontSize: '0.72rem', color: 'var(--text-muted)', marginTop: 24 }}>
-          Built for SYRUS PS 3 · 2026
-        </div>
+        {/*<div style={{ fontSize: '0.72rem', color: 'var(--text-muted)', marginTop: 24 }}>
+           Built for SYRUS PS 3 · 2026
+        </div> */}
       </div>
 
       {/* Right panel — form */}

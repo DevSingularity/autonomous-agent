@@ -1,4 +1,4 @@
-# DevOnboard — Autonomous Developer Onboarding Agent (Frontend)
+# OnboardOS — Autonomous Developer Onboarding Agent (Frontend)
 
 A modern React frontend for the AI-powered developer onboarding platform. Built with Vite, TailwindCSS v4, and Redux Toolkit.
 
